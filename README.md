@@ -29,8 +29,8 @@ A Frontend project that allows users to attempt quizzes of various computer lang
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
-![Quiz Page](./screenshots/quiz.png)
-![Admin Dashboard](./screenshots/admin.png)
+![Home Page](./src/assets/home.png)
+![Quiz Page](./src/assets/quiz.png)
+![Admin Dashboard](./src/assets/admin.png)
 
 
